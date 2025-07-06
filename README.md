@@ -45,7 +45,7 @@ pip install pytdc rdkit-pypi torch-geometric torch pandas matplotlib seaborn sci
 - Code explanation script/video
 
 ## 🤝 Contributors
-- [Your Name Here]
+- [Jidnyasa Naik]
 
 ---
 © 2025 • AI for Drug Discovery | Educational Use Only
